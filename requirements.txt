@@ -1,0 +1,9 @@
+ipykernel
+torch
+einops
+transformers
+tqdm
+matplotlib
+pandas
+numpy
+accelerate>=0.26.0
